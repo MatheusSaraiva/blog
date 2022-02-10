@@ -39,7 +39,7 @@ Pré-requisitos: Python 3
 
 ```bash
 # clonar repositório
-$ git clone -b master https://github.com/MatheusSaraiva/blog.git
+$ git clone -b main https://github.com/MatheusSaraiva/blog.git
 
 # Para instalar as dependências "requirements.txt"
 $ pip install -r requirements.txt
