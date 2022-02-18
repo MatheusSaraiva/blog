@@ -4,7 +4,8 @@
 
 # Sobre o projeto
 
-Projeto Blog é uma aplicação full stack web.
+Projeto Blog é uma aplicação full stack, com todos os recursos básicos que um blog tem, 
+como artigos, categorias, comentários e área administrativa.
 
 
 ## Layout web
