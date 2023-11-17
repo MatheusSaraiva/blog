@@ -4,10 +4,30 @@
 
 # Sobre o projeto
 
-Projeto Blog é uma aplicação full stack, com todos os recursos básicos que um blog tem, 
-como artigos, categorias, comentários e área administrativa.
+Este projeto visa oferecer uma experiência completa de blog, incorporando elementos essenciais como artigos, categorias, comentários e uma área administrativa intuitiva.
 
+# Recursos Destacados:
 
+* Artigos: Desenvolvi uma estrutura robusta para a criação, publicação e visualização de artigos. Isso permite que os usuários explorem conteúdos de maneira intuitiva.
+
+* Categorias Estruturadas: Implementei um sistema de categorias que organiza os artigos, facilitando a navegação e proporcionando aos usuários a capacidade de explorar temas específicos de seu interesse.
+
+* Comentários Interativos: Adicionei uma funcionalidade de comentários, permitindo que os leitores compartilhem suas opiniões e interajam diretamente com o conteúdo, promovendo uma comunidade engajada.
+
+* Área Administrativa Intuitiva: Desenvolvi uma interface administrativa amigável e eficiente, simplificando a gestão de conteúdo, usuários e interações na plataforma.
+
+#Tecnologias Utilizadas:
+
+* Python: A linguagem de programação principal que oferece versatilidade e eficiência no desenvolvimento.
+
+* Django: O framework web que impulsiona a construção de aplicativos de maneira rápida e estruturada.
+
+* SQLite: O sistema de gerenciamento de banco de dados leve que garante a eficiência no armazenamento e recuperação de informações.
+
+* HTML, CSS, JS: Elementos essenciais para a construção de uma interface de usuário dinâmica e atraente.
+
+* Bootstrap: Um framework de design que adiciona consistência visual e responsividade à aplicação.
+  
 ## Layout web
 ![Web 1](https://github.com/MatheusSaraiva/blog/blob/main/assets/pg_inicial.PNG)
 
@@ -21,18 +41,6 @@ como artigos, categorias, comentários e área administrativa.
 
 ![Web 5](https://github.com/MatheusSaraiva/blog/blob/main/assets/pg_adminPost1.PNG)
 
-
-# Tecnologias utilizadas
-## Back end
-- Python
-- Django
-- SQLite
-
-## Front end
-- HTML
-- CSS
-- JS
-- bootstrap
 
 # Como executar o projeto
 
