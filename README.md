@@ -16,7 +16,7 @@ Este projeto visa oferecer uma experiência completa de blog, incorporando eleme
 
 * Área Administrativa Intuitiva: Desenvolvi uma interface administrativa amigável e eficiente, simplificando a gestão de conteúdo, usuários e interações na plataforma.
 
-#Tecnologias Utilizadas:
+# Tecnologias Utilizadas:
 
 * Python: A linguagem de programação principal que oferece versatilidade e eficiência no desenvolvimento.
 
